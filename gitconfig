@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vmschweitzer@gmail.com
+	name = Valerie Schweitzer
